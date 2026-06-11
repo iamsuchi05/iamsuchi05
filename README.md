@@ -53,8 +53,6 @@ My name is Suchi, and I’m a passionate Frontend Developer who loves building m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsuchi05&show_icons=true&theme=react&bg_color=1F222E&title_color=F472B6&hide_border=true&icon_color=F8BBD0" width="48%" />
-
 
 </div>
 
