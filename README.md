@@ -50,7 +50,6 @@ My name is Suchi, and I’m a passionate Frontend Developer who loves building m
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <div align="center">
 
