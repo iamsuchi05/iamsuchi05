@@ -60,7 +60,6 @@ My name is Suchi, and I’m a passionate Frontend Developer who loves building m
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamsuchi05&show_icons=true&theme=react&bg_color=1F222E&title_color=F472B6&hide_border=true&icon_color=F8BBD0" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuchi05&langs_count=6&theme=react&bg_color=1F222E&title_color=F472B6&hide_border=true&icon_color=F8BBD0&layout=compact" width="48%" />
 
 </div>
 
@@ -70,16 +69,12 @@ My name is Suchi, and I’m a passionate Frontend Developer who loves building m
 
 <p align="center">
 
-<a href="https://github.com/iamsuchi05/Swiggy-Project">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=iamsuchi05&repo=Swiggy-Project&theme=react&bg_color=1F222E&title_color=F472B6&hide_border=true&icon_color=F8BBD0" />
+<a href="https://github.com/iamsuchi05/My-Portfolio">
+  <img width="300" src="https://my-portfolio-psi-eight-80.vercel.app/" />
 </a>
 
-<a href="https://github.com/iamsuchi05/Youtube">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=iamsuchi05&repo=Youtube&theme=react&bg_color=1F222E&title_color=F472B6&hide_border=true&icon_color=F8BBD0" />
-</a>
-
-<a href="https://github.com/iamsuchi05/My-Netflix-Gemini">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=iamsuchi05&repo=My-Netflix-Gemini&theme=react&bg_color=1F222E&title_color=F472B6&hide_border=true&icon_color=F8BBD0" />
+<a href="https://github.com/iamsuchi05/youtube-projecte">
+  <img width="300" src="https://youtube-project-wine.vercel.app/" />
 </a>
 
 </p>
