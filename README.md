@@ -36,10 +36,6 @@ My name is Suchi, and I’m a passionate Frontend Developer who loves building m
 <br>
 
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="15764410" data-share-method="host" data-aspect-ratio="1.18519" data-width="100%">
-    <img width="200px" src="./dev.gif"/>
-  </div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ---
